@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  font-family: Roboto;
+  font-size: 45px;
+  color: blue !important;
+}
+
+.container {
+  margin: 15px 15px;
+}
+
+.dialog {
+  margin: 50px 50px;
+}
+
+.form-control {
+  margin: 20px 20px;
+}
